@@ -1,5 +1,7 @@
 # Tic-Tac-Toe
 
+Live Demo: https://6abaa81a88e3cc1472a675f0--splendid-narwhal-682ebe.netlify.app/
+
 A stylish React + Vite browser game featuring classic Tic-Tac-Toe gameplay with two modes:
 
 - Player vs Player (same device)
